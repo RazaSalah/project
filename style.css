@@ -263,7 +263,7 @@
   /*here we need to display the two inputs as one block*/
   .first-part input{
       display: inline-block;
-      width: 16rem;
+      width: 10rem;
       padding: 12px;
       border: 1px solid #ccc;
       border-radius: 4px;
@@ -272,7 +272,7 @@
   
   .second-part input{
       
-      width: 35rem;
+      width: 80%;
       padding: 12px;
       border: 1px solid #ccc;
       border-radius: 4px;
@@ -280,7 +280,7 @@
   }
   .second-part textarea{
       
-      width: 35rem;
+      width: 80%;
       padding: 12px;
       border: 1px solid #ccc;
       border-radius: 4px;
@@ -288,7 +288,7 @@
   }
   .second-part button{
       
-      width: 35rem;
+      width:80%;
       padding: 12px;
       border: 1px solid #ccc;
       border-radius: 4px;
